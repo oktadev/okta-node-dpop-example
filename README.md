@@ -68,4 +68,4 @@ Please post any questions as comments on the [blog post][blog], or visit our [Ok
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-[blog]: https://developer.okta.com/blog/2024/10/24/dpop-oauth-node
+[blog]: https://developer.okta.com/blog/2024/10/23/dpop-oauth-node
